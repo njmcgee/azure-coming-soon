@@ -245,3 +245,9 @@ textarea {
   }
 }
 
+body {
+  background-image: url("../img/bg.jpg");  
+  background-size: 100%;
+  /*background-position-y: -500px;*/
+}
+
